@@ -1,0 +1,20 @@
+/* Home.css */
+.bg-facebook {
+  background-color: #3b5998; /* Color de fondo similar a Facebook */
+}
+
+.text-dark {
+  color: #333; /* Color de texto oscuro */
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.btn-sm {
+  margin-right: 5px;
+}
